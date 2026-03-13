@@ -12,3 +12,5 @@ An exploratory project examining partisan preferences in TikTok repost content. 
 `tiktok_political_vision_classifier.ipynb`: Generating images using video description text to prompt SDXL, and then embedding images using Qwen. The outputs are cleared to save on storage space. To the TAs: there should a link in my final submission to a google drive folder where all the outputs are visible.
 
 `tiktok_text_political_classifier.ipynb`: Embedding text, then training classifiers to separate Democrat and Republican repost content.
+
+Read the main essay on Substack here: [substack essay](https://consequunturaegre596267.substack.com/p/democrats-and-republicans-use-tiktok)
