@@ -13,4 +13,6 @@ An exploratory project examining partisan preferences in TikTok repost content. 
 
 `tiktok_text_political_classifier.ipynb`: Embedding text, then training classifiers to separate Democrat and Republican repost content.
 
+**Note:** Due to privacy restriction, data is not yet uploaded. An anonymized version of the database is forthcoming, and SQL queries in the code will be updated to represent the new database structure.
+
 Read the main essay on Substack here: [substack essay](https://consequunturaegre596267.substack.com/p/democrats-and-republicans-use-tiktok)
